@@ -59,8 +59,3 @@ To set up and run the chat server on your local machine, follow these steps:
 2. Authenticates clients using a password.
 3. Allows clients to send messages to each other in real-time.
 4. Handles client disconnections gracefully.
-
-
-## Screenshots
-
-![App Screenshot](["[Screenshot 2024-02-08 235550.png](https://github.com/bhavesh-03/Chat-application-using-C/blob/fafc3f48f2ba64ceb5d31386e5e7dab4b495566f/Screenshot%202024-02-08%20235550.png)https://github.com/bhavesh-03/Chat-application-using-C/blob/fafc3f48f2ba64ceb5d31386e5e7dab4b495566f/Screenshot%202024-02-08%20235550.png"](https://github.com/bhavesh-03/Chat-application-using-C/blob/fafc3f48f2ba64ceb5d31386e5e7dab4b495566f/Screenshot%202024-02-08%20235550.png)https://github.com/bhavesh-03/Chat-application-using-C/blob/fafc3f48f2ba64ceb5d31386e5e7dab4b495566f/Screenshot%202024-02-08%20235550.png)
