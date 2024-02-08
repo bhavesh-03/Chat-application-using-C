@@ -63,4 +63,4 @@ To set up and run the chat server on your local machine, follow these steps:
 
 ## Screenshots
 
-![App Screenshot]("./Screenshot 2024-02-08 235550.png")
+![App Screenshot]("Screenshot 2024-02-08 235550.png")
