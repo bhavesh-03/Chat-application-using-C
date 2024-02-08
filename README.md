@@ -20,7 +20,6 @@ To set up and run the chat server on your local machine, follow these steps:
    ```bash
    git clone https://github.com/your-username/chat-server.git
 
-
 ### To run the server
 1. Navigate to the project directory:
 
@@ -52,7 +51,6 @@ To set up and run the chat server on your local machine, follow these steps:
 
     ```bash
     ./client
-
 
 #### Clients can connect to the server using a chat client.
 
